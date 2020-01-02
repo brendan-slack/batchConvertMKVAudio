@@ -30,4 +30,4 @@ USAGE:
 
 From terminal, type the following
 
-~./script_name.sh /Path/To/Target/Folder/ /Path/To/Output/Folder/
+~/./script_name.sh /Path/To/Target/Folder/ /Path/To/Output/Folder/
